@@ -1,4 +1,4 @@
-#Sin Comentarios.
+name: SinComentarios.
 on: issue_commented:
     name: Issue comment
     if: ${{ !github.event.issue.pull_request }}
