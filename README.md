@@ -1,2 +1,4 @@
 # Ejerc2Mierc
-Ejercicio 2, realizado el miércoles 6 de octubre
+  Ejercicio 2, realizado el miércoles 6 de octubre
+  
+  Se le agrega texto
